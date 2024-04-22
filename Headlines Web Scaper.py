@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Set the URL of the web page you want to scrape
+# Set the URL of the web page form  which you want to scrape the news headlines
 url = "http://www.example.com"
 
 # Fetch the web page
